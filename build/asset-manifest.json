@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dounyazhd/e-commerce-candle/static/css/main.5999f6c7.css",
+    "main.js": "/dounyazhd/e-commerce-candle/static/js/main.68027c73.js",
+    "static/js/453.8ab44547.chunk.js": "/dounyazhd/e-commerce-candle/static/js/453.8ab44547.chunk.js",
+    "index.html": "/dounyazhd/e-commerce-candle/index.html",
+    "main.5999f6c7.css.map": "/dounyazhd/e-commerce-candle/static/css/main.5999f6c7.css.map",
+    "main.68027c73.js.map": "/dounyazhd/e-commerce-candle/static/js/main.68027c73.js.map",
+    "453.8ab44547.chunk.js.map": "/dounyazhd/e-commerce-candle/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5999f6c7.css",
+    "static/js/main.68027c73.js"
+  ]
+}
